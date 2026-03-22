@@ -1,0 +1,690 @@
+name,technology,bidding_EOM,bidding_CRM_pos,bidding_CRM_neg,fuel_type,emission_factor,max_power,min_power,efficiency,ramp_up,ramp_down,additional_cost,hot_start_cost,warm_start_cost,cold_start_cost,min_operating_time,min_down_time,heat_extraction,max_heat_extraction,unit_operator
+Kaiga Generating Station Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kaiga Generating Station Unit 1
+Kaiga Generating Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kaiga Generating Station Unit 2
+Kaiga Generating Station Unit 3,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kaiga Generating Station Unit 3
+Kaiga Generating Station Unit 4,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kaiga Generating Station Unit 4
+Kakrapar Atomic Power Station Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kakrapar Atomic Power Station Unit 1
+Kakrapar Atomic Power Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Kakrapar Atomic Power Station Unit 2
+Kakrapar Atomic Power Station Unit 3,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,700,280,0.33,,,,,,,,,,,Kakrapar Atomic Power Station Unit 3
+Kakrapar Atomic Power Station Unit 4,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,700,280,0.33,,,,,,,,,,,Kakrapar Atomic Power Station Unit 4
+Kudankulam Atomic Power Project Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,1000,400,0.33,,,,,,,,,,,Kudankulam Atomic Power Project Unit 1
+Kudankulam Atomic Power Project Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,1000,400,0.33,,,,,,,,,,,Kudankulam Atomic Power Project Unit 2
+Madras Atomic Power Station Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Madras Atomic Power Station Unit 1
+Madras Atomic Power Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Madras Atomic Power Station Unit 2
+Narora Atomic Power Station Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Narora Atomic Power Station Unit 1
+Narora Atomic Power Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Narora Atomic Power Station Unit 2
+Rajasthan Atomic Power Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,200,80,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 2
+Rajasthan Atomic Power Station Unit 3,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 3
+Rajasthan Atomic Power Station Unit 4,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 4
+Rajasthan Atomic Power Station Unit 5,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 5
+Rajasthan Atomic Power Station Unit 6,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,220,88,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 6
+Rajasthan Atomic Power Station Unit 7,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,700,280,0.33,,,,,,,,,,,Rajasthan Atomic Power Station Unit 7
+Tarapur Atomic Power Station Unit 1,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,160,64,0.33,,,,,,,,,,,Tarapur Atomic Power Station Unit 1
+Tarapur Atomic Power Station Unit 2,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,160,64,0.33,,,,,,,,,,,Tarapur Atomic Power Station Unit 2
+Tarapur Atomic Power Station Unit 3,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,540,216,0.33,,,,,,,,,,,Tarapur Atomic Power Station Unit 3
+Tarapur Atomic Power Station Unit 4,nuclear,powerplant_energy_heuristic_flexable,,,uranium,0,540,216,0.33,,,,,,,,,,,Tarapur Atomic Power Station Unit 4
+Akaltara Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Akaltara TPS
+Akaltara Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Akaltara TPS
+Akaltara Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Akaltara TPS
+Akrimota Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Akrimota TPS
+Akrimota Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Akrimota TPS
+Amaravati TPS Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Amaravati TPS
+Amaravati TPS Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Amaravati TPS
+Amaravati TPS Phase I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Amaravati TPS
+Amaravati TPS Phase I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Amaravati TPS
+Amaravati TPS Phase I Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Amaravati TPS
+Amarkantak TPS Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Amarkantak TPS
+Lanco Anpara Power Private Limited or Anapara C TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Anpara C TPS or Lanco Anapara
+Lanco Anpara Power Private Limited or Anapara C TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Anpara C TPS or Lanco Anapara
+Anpara Thermal Power Station -A Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station -A Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station -A Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station -B Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station -B Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station-D Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Anpara TPS
+Anpara Thermal Power Station-D Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Anpara TPS
+Anuppur Thermal Power Project Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,625,250,0.4,,,,,,,,,,,Anuppur TPP
+Anuppur Thermal Power Project Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,625,250,0.4,,,,,,,,,,,Anuppur TPP
+Avantha Bhandar Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Avantha Bhandar TPS
+Bakreshwar Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bakreshwar TPS
+Bakreshwar Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bakreshwar TPS
+Bakreshwar Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bakreshwar TPS
+Bakreshwar Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bakreshwar TPS
+Bakreshwar Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bakreshwar TPS
+Balco Korba TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Balco Korba TPP
+Balco Korba TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Balco Korba TPP
+Bandakhar TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Bandakhar TPP
+Bandel Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,60,24,0.4,,,,,,,,,,,Bandel TPS
+Bandel Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bandel TPS
+Baradarha Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Baradarha TPS
+Baradarha Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Baradarha TPS
+Barauni Thermal Power Station (BTPS) Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Barauni TPS
+Barauni Thermal Power Station (BTPS) Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Barauni TPS
+Barh STPP II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Barh STPP
+Barh STPP II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Barh STPP
+Barh STPP- I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Barh STPP
+Barh STPP- I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Barh STPP
+Barh STPP- I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Barh STPP
+Barkhera TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Barkhera TPS
+Barkhera TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Barkhera TPS
+Barsingar Lignite Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Barsingar Lignite TPP
+Barsingar Lignite Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Barsingar Lignite TPP
+Bela Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Bela TPS
+Bellary TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Bellary TPS
+Bellary TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Bellary TPS
+Bellary TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,700,280,0.4,,,,,,,,,,,Bellary TPS
+Bhadradri Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Bhadradri TPP
+Bhadradri Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Bhadradri TPP
+Bhadradri Thermal Power Plant Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Bhadradri TPP
+Bhadradri Thermal Power Plant Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Bhadradri TPP
+Bhavnagar TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bhavnagar TPP
+Bhavnagar TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bhavnagar TPP
+Bhilai Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bhilai TPS
+Bhilai Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bhilai TPS
+Bhusawal Coal based TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Bhusawal TPS
+Bhusawal Coal based TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Bhusawal TPS
+Bhusawal Coal based TPS Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Bhusawal TPS
+Bhusawal Coal based TPS Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Bhusawal TPS
+Bina Thermal Power Station/ JP Bina TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bina TPS
+Bina Thermal Power Station/ JP Bina TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bina TPS
+Binjkote Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Binjkote TPP
+Binjkote Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Binjkote TPP
+Bokaro A Thermal Power Station Extension Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Bokaro A Extension TPS
+Bongaigaon TPP Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bongaigaon TPP
+Bongaigaon TPP Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bongaigaon TPP
+Bongaigaon TPP Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Bongaigaon TPP
+Budge Budge Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Budge Budge TPS
+Budge Budge Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Budge Budge TPS
+Budge Budge Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Budge Budge TPS
+Butibori Power Project Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Butibori TPP
+Butibori Power Project Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Butibori TPP
+Chakabura TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,30,12,0.4,,,,,,,,,,,Chakabura TPP
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapur (Maharashtra) Super Thermal Power Station Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Chandrapur (Maharashtra) STPS
+Chandrapura (DVC) Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chandrapura (DVC) TPS
+Chandrapura (DVC) Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chandrapura (DVC) TPS
+Chhabra Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chhabra TPP
+Chhabra Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chhabra TPP
+Chhabra Thermal Power Plant Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chhabra TPP
+Chhabra Thermal Power Plant Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Chhabra TPP
+Chhabra Thermal Power Plant Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Chhabra TPP
+Chhabra Thermal Power Plant Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Chhabra TPP
+Dadri TPP (NCTPP) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dadri TPP (NCTPP) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dadri TPP (NCTPP) Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dadri TPP (NCTPP) Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dadri TPP (NCTPP) Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,490,196,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dadri TPP (NCTPP) Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,490,196,0.4,,,,,,,,,,,Dadri TPP (NCTPP)
+Dahanu Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Dahanu TPS
+Dahanu Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Dahanu TPS
+Damodaram Sanjeevaiah Thermal Power Station or Krishnapatnam Supercritical TPP Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Damodaram Sanjeevaiah or Krishnapatnam TPP
+Damodaram Sanjeevaiah Thermal Power Station or Krishnapatnam Supercritical TPP Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Damodaram Sanjeevaiah or Krishnapatnam TPP
+Damodaram Sanjeevaiah Thermal Power Station or Krishnapatnam Supercritical TPP Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Damodaram Sanjeevaiah or Krishnapatnam TPP
+Darlipali Supercritical Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Darlipali STPP
+Darlipali Supercritical Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Darlipali STPP
+Derang Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Derang TPP
+Derang Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Derang TPP
+Dhariwal TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Dhariwal TPP
+Dhariwal TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Dhariwal TPP
+Dr. Shyama Prasad Mukherjee Thermal Power Station (DSPM) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Dr. Shyama Prasad Mukherjee TPS
+Dr. Shyama Prasad Mukherjee Thermal Power Station (DSPM) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Dr. Shyama Prasad Mukherjee TPS
+Durgapur Projects Ltd Thermal Power Plant (D.P.L. TPS) Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Durgapur Projects (D.P.L.) TPS
+Durgapur Projects Ltd Thermal Power Plant (D.P.L. TPS) Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Durgapur Projects (D.P.L.) TPS
+Durgapur Steel TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Durgapur Steel TPS
+Durgapur Steel TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Durgapur Steel TPS
+EMCO Energy Warora Power Station / GMR Warora Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,EMCO Energy Warora TPS/ GMR Warora
+EMCO Energy Warora Power Station / GMR Warora Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,EMCO Energy Warora TPS/ GMR Warora
+Farakka STPS Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Farakka STPS
+Farakka STPS Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Farakka STPS
+Farakka STPS Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Farakka STPS
+Farakka STPS Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Farakka STPS
+Farakka STPS Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Farakka STPS
+Farakka STPS Stage III Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Farakka STPS
+Gadarwara Super Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Gadarwara STPS
+Gadarwara Super Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Gadarwara STPS
+Gandhi Nagar Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Gandhi Nagar TPS
+Gandhi Nagar Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Gandhi Nagar TPS
+Gandhi Nagar Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Gandhi Nagar TPS
+Ghatampur TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Ghatampur TPP
+Ghatampur TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Ghatampur TPP
+Giral Lignite Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Giral Lignite TPS
+Giral Lignite Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Giral Lignite TPS
+Goindwal Sahib TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Goindwal Sahib TPP
+Goindwal Sahib TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Goindwal Sahib TPP
+Gupta Energy Thermal Plant Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,60,24,0.4,,,,,,,,,,,Gupta Energy or GEPL TPP
+Gupta Energy Thermal Plant Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,60,24,0.4,,,,,,,,,,,Gupta Energy or GEPL TPP
+Guru Hargobind Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Guru Hargobind TPS
+Guru Hargobind Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Guru Hargobind TPS
+Guru Hargobind Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Guru Hargobind TPS
+Guru Hargobind Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Guru Hargobind TPS
+Haldia TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Haldia TPP
+Haldia TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Haldia TPP
+Harduaganj TPS Phase I Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,105,42,0.4,,,,,,,,,,,Harduaganj TPS
+Harduaganj TPS Phase I Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Harduaganj TPS
+Harduaganj TPS Phase I Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Harduaganj TPS
+Harduaganj TPS Phase II Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Harduaganj TPS
+Hiranmaye Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Hiranmaye TPP
+Hiranmaye Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Hiranmaye TPP
+IB Valley Thermal Power Station / Banharpali TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,IB Valley TPS
+IB Valley Thermal Power Station / Banharpali TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,IB Valley TPS
+IB Valley Thermal Power Station / Banharpali TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,IB Valley TPS
+IB Valley Thermal Power Station / Banharpali TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,IB Valley TPS
+ITPCL or Cuddalore Thermal Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,ITPCL or Cuddalore TPP
+ITPCL or Cuddalore Thermal Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,ITPCL or Cuddalore TPP
+Ind Barath (Utkal)/JSW Energy (Utkal) Ltd. Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Ind Barath (Utkal)/JSW Energy (Utkal) Ltd.
+Ind Barath (Utkal)/JSW Energy (Utkal) Ltd. Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Ind Barath (Utkal)/JSW Energy (Utkal) Ltd.
+Indira Gandhi Super Thermal Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Indira Gandhi STPP
+Indira Gandhi Super Thermal Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Indira Gandhi STPP
+Indira Gandhi Super Thermal Power Project Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Indira Gandhi STPP
+JSW Ratnagiri Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,JSW Ratnagiri TPP
+Jalipa- Kapurdi TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jalipa- Kapurdi TPP Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Jalipa- Kapurdi TPP
+Jawaharpur STPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Jawaharpur STPP
+Jawaharpur STPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Jawaharpur STPP
+Jaypee Nigrie Super Thermal Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Jaypee Nigrie STPP
+Jaypee Nigrie Super Thermal Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Jaypee Nigrie STPP
+Jojobera TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,120,48,0.4,,,,,,,,,,,Jojobera TPS
+Jojobera TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,120,48,0.4,,,,,,,,,,,Jojobera TPS
+Kahalgaon STPS Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kahalgaon STPS
+Kahalgaon STPS Stage II Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kahalgaon STPS
+Kakatiya Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kakatiya TPS
+Kakatiya Thermal Power Station Stage II Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Kakatiya TPS
+Kalisindh Supercritical Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Kalisindh STPS
+Kalisindh Supercritical Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Kalisindh STPS
+Kamalanga TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Kamalanga TPS
+Kamalanga TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Kamalanga TPS
+Kamalanga TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Kamalanga TPS
+Kasaipalli TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Kasaipalli TPP
+Kasaipalli TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Kasaipalli TPP
+Kawai Thermal Power Station Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Kawai TPS
+Kawai Thermal Power Station Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Kawai TPS
+Khamberkhera TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Khamberkhera TPS
+Khamberkhera TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Khamberkhera TPS
+Khaparkheda TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Khaparkheda TPS
+Khaparkheda TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Khaparkheda TPS
+Khaparkheda TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Khaparkheda TPS
+Khaparkheda TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Khaparkheda TPS
+Khaparkheda TPS Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Khaparkheda TPS
+Khargone Super Critical Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Khargone Super Critical Power Plant
+Khargone Super Critical Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Khargone Super Critical Power Plant
+Khurja Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Khurja Power Project
+Khurja Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Khurja Power Project
+Kodarma TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kodarma TPP
+Kodarma TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kodarma TPP
+Kolaghat Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kolaghat TPS
+Kolaghat Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kolaghat TPS
+Kolaghat Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kolaghat TPS
+Kolaghat Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kolaghat TPS
+Koradi Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Koradi TPS
+Koradi Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Koradi TPS
+Koradi Thermal Power Station Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Koradi TPS
+Koradi Thermal Power Station Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Koradi TPS
+Korba Super Thermal Power Plant Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Korba STPS
+Korba Super Thermal Power Plant Stage III Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Korba STPS
+Korba West or Hasdeo TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Korba West or Hasdeo TPS
+Korba West or Hasdeo TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Korba West or Hasdeo TPS
+Korba West or Hasdeo TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Korba West or Hasdeo TPS
+Korba West or Hasdeo TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Korba West or Hasdeo TPS
+Korba West or Hasdeo TPS Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Korba West or Hasdeo TPS
+Kota Super Thermal Power Plant or KTPS Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage IV Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,195,78,0.4,,,,,,,,,,,Kota TPS
+Kota Super Thermal Power Plant or KTPS Stage V Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,195,78,0.4,,,,,,,,,,,Kota TPS
+Kothagudem Thermal Power Station or Stage V Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Kothagudem TPS
+Kothagudem Thermal Power Station or Stage V Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Kothagudem TPS
+Kothagudem Thermal Power Station Stage VI Unit 11,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Kothagudem TPS
+Kothagudem Thermal Power Station Stage VII Unit 12,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Kothagudem TPS
+Kudgi STPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Kudgi STPP
+Kudgi STPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Kudgi STPP
+Kudgi STPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Kudgi STPP
+Kundarkhi TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Kundarkhi TPS
+Kundarkhi TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Kundarkhi TPS
+Kutchh Lignite Thermal Power Station/ Kutch Lig. TPS Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,75,30,0.4,,,,,,,,,,,Kutchh Lignite TPS
+Kutchh Lignite Thermal Power Station/ Kutch Lig. TPS Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,75,30,0.4,,,,,,,,,,,Kutchh Lignite TPS
+Lalitpur TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Lalitpur TPP
+Lalitpur TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Lalitpur TPP
+Lalitpur TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Lalitpur TPP
+Lara Super Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Lara STPS
+Lara Super Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Lara STPS
+Maadurga Thermal Power (MTPCL) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,30,12,0.4,,,,,,,,,,,Maadurga Thermal Power (MTPCL)
+Maadurga Thermal Power (MTPCL) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,30,12,0.4,,,,,,,,,,,Maadurga Thermal Power (MTPCL)
+Mahadev Prasad Super Thermal Power Station or Jamshedpur Kandra power station/ AHUNIK Power & Nat. Res. Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Mahadev Prasad or Jamshedpur Kandra STPP
+Mahadev Prasad Super Thermal Power Station or Jamshedpur Kandra power station/ AHUNIK Power & Nat. Res. Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,270,108,0.4,,,,,,,,,,,Mahadev Prasad or Jamshedpur Kandra STPP
+Mahan TPP Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Mahan TPP
+Mahan TPP Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Mahan TPP
+Mahatma Gandhi Thermal Power Station or Jhajjhar TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mahatma Gandhi TPS or Jhajjhar TPS
+Mahatma Gandhi Thermal Power Station or Jhajjhar TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mahatma Gandhi TPS or Jhajjhar TPS
+Maithon Right Bank TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,525,210,0.4,,,,,,,,,,,Maithon TPP
+Maithon Right Bank TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,525,210,0.4,,,,,,,,,,,Maithon TPP
+Maqsoodpur TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Maqsoodpur TPS
+Maqsoodpur TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Maqsoodpur TPS
+Marwa Thermal Power Plant/ MTTPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Marwa TPS
+Marwa Thermal Power Plant/ MTTPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Marwa TPS
+Mauda TPS Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Mauda TPS
+Mauda TPS Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Mauda TPS
+Mauda TPS Phase II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mauda TPS
+Mauda TPS Phase II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mauda TPS
+Meja STPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Meja STPP
+Meja STPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Meja STPP
+Mejia TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Mejia TPS
+Mejia TPS Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Mejia TPS
+Mettur Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mettur TPS
+Mettur Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mettur TPS
+Mettur Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mettur TPS
+Mettur Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Mettur TPS
+Mettur Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Mettur TPS
+Mihan Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,61.5,24.6,0.4,,,,,,,,,,,Mihan TPS
+Mihan Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,61.5,24.6,0.4,,,,,,,,,,,Mihan TPS
+Mihan Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,61.5,24.6,0.4,,,,,,,,,,,Mihan TPS
+Mihan Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,61.5,24.6,0.4,,,,,,,,,,,Mihan TPS
+Mundra Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,330,132,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,330,132,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,330,132,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,330,132,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mundra TPS
+Mundra Thermal Power Station Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Mundra TPS
+Tata Mundra Ultra Major Power Project (Mundra UMTPP) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Mundra UMTPP
+Tata Mundra Ultra Major Power Project (Mundra UMTPP) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Mundra UMTPP
+Tata Mundra Ultra Major Power Project (Mundra UMTPP) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Mundra UMTPP
+Tata Mundra Ultra Major Power Project (Mundra UMTPP) Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Mundra UMTPP
+Tata Mundra Ultra Major Power Project (Mundra UMTPP) Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Mundra UMTPP
+Muthiara TPP Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Muthiara TPP
+Muthiara TPP Phase II Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Muthiara TPP
+Muzaffarpur Thermal Power Station (KBUNL Stage II) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,195,78,0.4,,,,,,,,,,,Muzaffarpur TPS
+Muzaffarpur Thermal Power Station (KBUNL Stage II) Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,195,78,0.4,,,,,,,,,,,Muzaffarpur TPS
+Nabi Nagar TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Nabi Nagar TPP
+Nabi Nagar TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Nabi Nagar TPP
+Nabi Nagar TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Nabi Nagar TPP
+Nabi Nagar TPP Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Nabi Nagar TPP
+Nasik (Indiabulls) Thermal Power Station Phase II (NASIK TPS) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Nasik TPS
+Nasik (Indiabulls) Thermal Power Station Phase II (NASIK TPS) Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Nasik TPS
+Nasik (Indiabulls) Thermal Power Station Phase II (NASIK TPS) Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Nasik TPS
+Nawapara TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Nawapara TPP
+Nawapara TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Nawapara TPP
+New Nabi Nagar TPP (Majhiyan) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,New NabiNagar TPP (Majhiyan)
+New Nabi Nagar TPP (Majhiyan) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,New NabiNagar TPP (Majhiyan)
+New Nabi Nagar TPP (Majhiyan) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,New NabiNagar TPP (Majhiyan)
+Neyveli Lignite Thermal Power Station (Expansion) (NEYVELI (EXT)) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli (EXT) TPS I
+Neyveli Lignite Thermal Power Station (Expansion) (NEYVELI (EXT)) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli (EXT) TPS I
+Neyveli Lignite Thermal Power Station (Expansion) Stage II (NEYVELI TPS II (EXT)) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Neyveli (EXT) TPS II
+Neyveli Lignite Thermal Power Station (Expansion) Stage II (NEYVELI TPS II (EXT)) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Neyveli (EXT) TPS II
+Neyveli (New) TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Neyveli (New) TPP /Neyveli Extension
+Neyveli (New) TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Neyveli (New) TPP /Neyveli Extension
+Neyveli Lignite Thermal Power Station (Expansion) (Z) (NEYVELI TPS (Z)) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Neyveli TPS (Z)
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Neyveli Lignite Thermal Power Station-II (NEYVELI TPS II) Stage II Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Neyveli TPS II
+Niwari Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Niwari TPP
+Niwari Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Niwari TPP
+North Chennai Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,North Chennai TPS
+North Chennai Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,North Chennai TPS
+North Chennai Thermal Power Station Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,North Chennai TPS
+North Chennai Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,North Chennai TPS
+North Chennai Thermal Power Station Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,North Chennai TPS
+North Chennai Thermal Power Station Stage III Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,North Chennai TPS
+North Karanpura TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,North Karanpura TPP
+North Karanpura TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,North Karanpura TPP
+North Karanpura TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,North Karanpura TPP
+O.P. Jindal or Tamnar I Project Thermal Power Station/ Jindal Power Ltd. STPPS I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,O.P. Jindal or Tamnar I TPS/ Raigarh TPP
+O.P. Jindal or Tamnar I Project Thermal Power Station/ Jindal Power Ltd. STPPS I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,O.P. Jindal or Tamnar I TPS/ Raigarh TPP
+O.P. Jindal or Tamnar I Project Thermal Power Station/ Jindal Power Ltd. STPPS I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,O.P. Jindal or Tamnar I TPS/ Raigarh TPP
+O.P. Jindal or Tamnar I Project Thermal Power Station/ Jindal Power Ltd. STPPS I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,O.P. Jindal or Tamnar I TPS/ Raigarh TPP
+OPG Power Generation Private Ltd. Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,77,30.8,0.4,,,,,,,,,,,OPG Power Generation Private Ltd.
+OPG Power Generation Private Ltd. Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,77,30.8,0.4,,,,,,,,,,,OPG Power Generation Private Ltd.
+OPG Power Generation Private Ltd. Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,80,32,0.4,,,,,,,,,,,OPG Power Generation Private Ltd.
+OPG Power Generation Private Ltd. Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,180,72,0.4,,,,,,,,,,,OPG Power Generation Private Ltd.
+Obra Thermal Power Station B Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station B Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station B Unit 11,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station B Unit 12,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station B Unit 13,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station C Unit 14,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Obra TPS
+Obra Thermal Power Station C Unit 15,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Obra TPS
+Panipat Thermal Power Station Stage IV Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Panipat TPS
+Panipat Thermal Power Station Stage V Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Panipat TPS
+Panipat Thermal Power Station Stage VI Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Panipat TPS
+Panki Thermal Power Station Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Panki TPS
+Paras Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Paras TPS
+Paras Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Paras TPS
+Parichha Power station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Parichha TPS
+Parichha Power station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Parichha TPS
+Parichha Power station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Parichha TPS
+Parichha Power station Stage III Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Parichha TPS
+Parli Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Parli TPS
+Parli Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Parli TPS
+Parli Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Parli TPS
+Pathadi Thermal Power Plant Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Pathadi TPP
+Pathadi Thermal Power Plant Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Pathadi TPP
+Patratu Thermal Power Station Unit 11,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Patratu TPS
+Prayagraj (Bara) TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Prayagraj (Bara) TPP
+Prayagraj (Bara) TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Prayagraj (Bara) TPP
+Prayagraj (Bara) TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Prayagraj (Bara) TPP
+Raghunathpur Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Raghunathpur TPS
+Raghunathpur Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Raghunathpur TPS
+Raichur Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Raichur TPS
+Raichur Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Raichur TPS
+Raikheda TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,685,274,0.4,,,,,,,,,,,Raikheda TPP
+Raikheda TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,685,274,0.4,,,,,,,,,,,Raikheda TPP
+Rajiv Gandhi Thermal Power Station/ RGTPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Rajiv Gandhi TPS
+Rajiv Gandhi Thermal Power Station/ RGTPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Rajiv Gandhi TPS
+Rajpura TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,700,280,0.4,,,,,,,,,,,Rajpura TPP
+Rajpura TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,700,280,0.4,,,,,,,,,,,Rajpura TPP
+Ramagundem Thermal Power Station B (Ramagundem - B) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,62.5,25,0.4,,,,,,,,,,,Ramagudem -B TPS
+Ramagundam STPP/Telangana STPP Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Ramagundam STPP/Telangana Phase I
+Ramagundam STPP/Telangana STPP Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Ramagundam STPP/Telangana Phase I
+Ramagundam Super Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam Super Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam Super Thermal Power Station Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam Super Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam Super Thermal Power Station Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam Super Thermal Power Station Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Ramagundam STPS
+Ramagundam SuperThermal Power Station Stage III Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Ramagundam STPS
+Ratija Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,50,20,0.4,,,,,,,,,,,Ratija TPS
+Ratija Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,50,20,0.4,,,,,,,,,,,Ratija TPS
+Rayalaseema Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Rayalaseema TPS
+Rayalaseema Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Rayalaseema TPS
+Rayalaseema Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Rayalaseema TPS
+Rayalaseema Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Rayalaseema TPS
+Rayalaseema Thermal Power Station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Rayalaseema TPS
+Rayalaseema Thermal Power Station Stage IV Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Rayalaseema TPS
+Rihand Super Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Rihand Super Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Rihand Super Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Rihand Super Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Rihand Super Thermal Power Station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Rihand Super Thermal Power Station Stage III Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Rihand STPS
+Ropar TPS or Guru Gobind Singh STPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Ropar TPS or Guru Gobind Singh STPP
+Ropar TPS or Guru Gobind Singh STPP Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Ropar TPS or Guru Gobind Singh STPP
+Ropar TPS or Guru Gobind Singh STPP Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Ropar TPS or Guru Gobind Singh STPP
+Ropar TPS or Guru Gobind Singh STPP Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Ropar TPS or Guru Gobind Singh STPP
+Rosa TPP Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Rosa TPP
+Rosa TPP Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Rosa TPP
+Rosa TPP Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Rosa TPP
+Rosa TPP Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Rosa TPP
+SVPL TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,63,25.2,0.4,,,,,,,,,,,SVPL TPP
+Sabarmati D and F Thermal Power Station (D) or Sabarmati (D-F Stations) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,120,48,0.4,,,,,,,,,,,Sabarmati (D-F Stations) TPP
+Sabarmati D and F Thermal Power Station (D) or Sabarmati (D-F Stations) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,121,48.4,0.4,,,,,,,,,,,Sabarmati (D-F Stations) TPP
+Sabarmati D and F Thermal Power Station (D) or Sabarmati (D-F Stations) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,121,48.4,0.4,,,,,,,,,,,Sabarmati (D-F Stations) TPP
+Sagardighi Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Sagardighi TPS
+Sagardighi Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Sagardighi TPS
+Sagardighi Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Sagardighi TPS
+Sagardighi Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Sagardighi TPS
+Essar Power Salaya Ltd. or Salaya thermal power plant/ Essar Power Gujarat Ltd. Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Salaya TPP/Essar Power Gujarat
+Essar Power Salaya Ltd. or Salaya thermal power plant/ Essar Power Gujarat Ltd. Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Salaya TPP/Essar Power Gujarat
+Sanjay Gandhi Thermal Power Station/ SGTPS Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Sanjay Gandhi TPS
+Sanjay Gandhi Thermal Power Station/ SGTPS Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Sanjay Gandhi TPS
+Sanjay Gandhi Thermal Power Station/ SGTPS Phase II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Sanjay Gandhi TPS
+Sanjay Gandhi Thermal Power Station/ SGTPS Phase II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Sanjay Gandhi TPS
+Sanjay Gandhi Thermal Power Station/ SGTPS Phase III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Sanjay Gandhi TPS
+Santaldih Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Santaldih TPS
+Santaldih Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Santaldih TPS
+Sasan Ultra Mega Thermal Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Sasan Ultra Mega Thermal Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Sasan Ultra Mega Thermal Power Project Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Sasan Ultra Mega Thermal Power Project Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Sasan Ultra Mega Thermal Power Project Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Sasan Ultra Mega Thermal Power Project Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sasan UMTPP
+Satpura Thermal Power Station Stage IV Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Satpura TPS
+Satpura Thermal Power Station Stage IV Unit 11,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Satpura TPS
+Seioni TPP Phase I or Jhabua Power Seoni Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Seioni TPP or Jhabua Power Seoni TPP
+SGPL Power Project Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sembcorp Gayatri Power Ltd. Power Project
+SGPL Power Project Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sembcorp Gayatri Power Ltd. Power Project
+Shirpur Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Shirpur TPP
+Shirpur Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Shirpur TPP
+Shree Cement Ltd. TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Shree Cement Ltd. TPS
+Shree Cement Ltd. TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Shree Cement Ltd. TPS
+Shree Cement Ltd. TPS Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,19,7.6,0.4,,,,,,,,,,,Shree Cement Ltd. TPS
+Shree Cement Ltd. TPS Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,19,7.6,0.4,,,,,,,,,,,Shree Cement Ltd. TPS
+Shree Cement Ltd. TPS Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,6,2.4,0.4,,,,,,,,,,,Shree Cement Ltd. TPS
+Shri Singhaji Thermal Power Project Stage I or Malwa TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Shri Singhaji or Malwa TPP
+Shri Singhaji Thermal Power Project Stage I or Malwa TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Shri Singhaji or Malwa TPP
+Shri Singhaji Thermal Power Project Stage II or Malwa TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Shri Singhaji or Malwa TPP
+Shri Singhaji Thermal Power Project Stage II or Malwa TPP Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Shri Singhaji or Malwa TPP
+Sikka Thermal Power Station Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Sikka TPS
+Sikka Thermal Power Station Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Sikka TPS
+Simhadri Thermal Power Plant Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Simhadri TPP
+Simhadri Thermal Power Plant Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Simhadri TPP
+Simhadri Thermal Power Plant Phase II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Simhadri TPP
+Simhadri Thermal Power Plant Phase II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Simhadri TPP
+Simhapuri Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Simhapuri TPS
+Simhapuri Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Simhapuri TPS
+Simhapuri Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Simhapuri TPS
+Simhapuri Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Simhapuri TPS
+Singareni TPP Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Singareni TPP
+Singareni TPP Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Singareni TPP
+Singhitarai TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Singhitarai TPP
+Singrauli Super Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Singrauli STPS
+Singrauli Super Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Singrauli STPS
+Sipat Super Thermal Power Station (STPS) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sipat STPS
+Sipat Super Thermal Power Station (STPS) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sipat STPS
+Sipat Super Thermal Power Station (STPS) Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Sipat STPS
+Sipat Super Thermal Power Station (STPS) Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Sipat STPS
+Sipat Super Thermal Power Station (STPS) Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Sipat STPS
+Solapur Super critical Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Solapur Super critical Thermal Power Plant
+Solapur Super critical Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Solapur Super critical Thermal Power Plant
+Southern Generating Power Station (Southern Repl. TPS) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,67.5,27,0.4,,,,,,,,,,,Southern Generating Power Station (Southern Repl. TPS)
+Southern Generating Power Station (Southern Repl. TPS) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,67.5,27,0.4,,,,,,,,,,,Southern Generating Power Station (Southern Repl. TPS)
+Sterlite (Jharsuguda)/ Vedanta Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Sterlite (Jharsuguda)/ Vedanta Thermal Power Plant
+Super Critical Buxar Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Super Critical Buxar Thermal Power Plant
+Surat (Lignite)Thermal Power Station/ Surat Lig. Power Plant (SLPP Station -I) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Surat (Lignite) TPS
+Surat (Lignite)Thermal Power Station/ Surat Lig. Power Plant (SLPP Station -I) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Surat (Lignite) TPS
+Surat (Lignite)Thermal Power Station/ Surat Lig. Power Plant (SLPP Station -II) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Surat (Lignite) TPS
+Surat (Lignite)Thermal Power Station/ Surat Lig. Power Plant (SLPP Station -II) Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,125,50,0.4,,,,,,,,,,,Surat (Lignite) TPS
+Suratgarh Super Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage IV Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage IV Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Suratgarh STPS
+Suratgarh Super Thermal Power Station Stage V Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Suratgarh STPS
+TCP Limited Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,63.5,25.4,0.4,,,,,,,,,,,TCP Limited
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Kaniha Talcher Super Thermal Power Plant (TALCHER STPS) Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Talcher or Kaniha Talcher STPS
+Talwandi Sabo Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Talwandi Sabo TPP
+Talwandi Sabo Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Talwandi Sabo TPP
+Talwandi Sabo Thermal Power Plant Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Talwandi Sabo TPP
+Tamnar TPP/ Jindal Power Ltd. STPPS II Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Tamnar TPP
+Tamnar TPP/ Jindal Power Ltd. STPPS II Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Tamnar TPP
+Tamnar TPP/ Jindal Power Ltd. STPPS II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Tamnar TPP
+Tamnar TPP/ Jindal Power Ltd. STPPS II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Tamnar TPP
+Tanda Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Tanda TPS
+Tanda Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Tanda TPS
+Tanda Thermal Power Station Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Tanda TPS
+Tanda Thermal Power Station Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,110,44,0.4,,,,,,,,,,,Tanda TPS
+Tanda Thermal Power Station Stage II Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tanda TPS
+Tanda Thermal Power Station Stage II Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tanda TPS
+Tenughat Thermal Power Station (TTPS) Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tenughat TPS
+Tenughat Thermal Power Station (TTPS) Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tenughat TPS
+Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd
+Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd
+Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd
+Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,350,140,0.4,,,,,,,,,,,Thamminapatnam Thermal Power Station/ Meenakshi Energy Ltd
+Thermal Powertech Corporation Ltd/ Painampuram/Muthukur Mandal Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Thermal Powertech Corporation Ltd/ Painampuram/Muthukur Mandal
+Thermal Powertech Corporation Ltd/ Painampuram/Muthukur Mandal Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Thermal Powertech Corporation Ltd/ Painampuram/Muthukur Mandal
+Tirora Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tirora TPS
+Tirora Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tirora TPS
+Tirora Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tirora TPS
+Tirora Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tirora TPS
+Tirora Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,660,264,0.4,,,,,,,,,,,Tirora TPS
+Torangallu Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,130,52,0.4,,,,,,,,,,,Torangallu TPS SBU
+Torangallu Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,130,52,0.4,,,,,,,,,,,Torangallu TPS SBU
+Torangallu Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Torangallu TPS SBU
+Torangallu Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Torangallu TPS SBU
+Trombay Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Trombay TPS
+Trombay Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,250,100,0.4,,,,,,,,,,,Trombay TPS
+Tuticorin Thermal power plant (TPP) (Tuticorin (P)) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Tuticorin (P) TPP
+Tuticorin Thermal power plant (TPP) (Tuticorin (P)) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,150,60,0.4,,,,,,,,,,,Tuticorin (P) TPP
+Tuticorin Joint Venture Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Tuticorin Joint Venture
+Tuticorin Joint Venture Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Tuticorin Joint Venture
+Tuticorin Thermal Power Station (TPS) Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tuticorin TPS
+Tuticorin Thermal Power Station (TPS) Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tuticorin TPS
+Tuticorin Thermal Power Station (TPS) Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tuticorin TPS
+Tuticorin Thermal Power Station (TPS) Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tuticorin TPS
+Tuticorin Thermal Power Station (TPS) Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Tuticorin TPS
+Tuticorin Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,525,210,0.4,,,,,,,,,,,Tuticorin Thermal Power Plant
+Uchpinda TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,360,144,0.4,,,,,,,,,,,Uchpinda TPP
+Uchpinda TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,360,144,0.4,,,,,,,,,,,Uchpinda TPP
+Uchpinda TPP Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,360,144,0.4,,,,,,,,,,,Uchpinda TPP
+Uchpinda TPP Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,360,144,0.4,,,,,,,,,,,Uchpinda TPP
+Udupi TPP/Udupi Power Corporation Ltd. Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Udupi TPP
+Udupi TPP/Udupi Power Corporation Ltd. Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,600,240,0.4,,,,,,,,,,,Udupi TPP
+Ukai Thermal Power Station/ UKAI Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Ukai TPS
+Ukai Thermal Power Station/ UKAI Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,200,80,0.4,,,,,,,,,,,Ukai TPS
+Ukai Thermal Power Station/ UKAI Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Ukai TPS
+Ukai Thermal Power Station/ UKAI Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Ukai TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Unchahar or Feroz Gandhi Thermal Power Station Stage IV Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Unchahar or Feroz Gandhi TPS
+Utraula TPS Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Utraula TPS
+Utraula TPS Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,45,18,0.4,,,,,,,,,,,Utraula TPS
+Vallur Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vallur TPP
+Vallur Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vallur TPP
+Vallur Thermal Power Plant Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vallur TPP
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage III Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Stage III Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr. Narla Tata Rao Thermal Power Station Sateg IV Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vijayawada or Dr.Narla Tata Rao Thermal Power Station Stage V Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Vijayawada or Dr. Narla Tata Rao TPS
+Vindhyachal STPS Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage I Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage I Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage I Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage II Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage II Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage III Unit 9,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage III Unit 10,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage IV Unit 11,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage IV Unit 12,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vindhyachal STPS Stage V Unit 13,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,500,200,0.4,,,,,,,,,,,Vindhyachal STPS
+Vizag Tpp or Hinduja Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,520,208,0.4,,,,,,,,,,,Vizag or Hinduja Power TPP
+Vizag Tpp or Hinduja Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,520,208,0.4,,,,,,,,,,,Vizag or Hinduja Power TPP
+Wanakbori Thermal Power Station Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 5,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 6,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 7,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,210,84,0.4,,,,,,,,,,,Wanakbori TPS
+Wanakbori Thermal Power Station Unit 8,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Wanakbori TPS
+Wardha Warora TPP Phase I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Wardha Warora TPP
+Wardha Warora TPP Phase I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Wardha Warora TPP
+Wardha Warora TPP Phase II Unit 3,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Wardha Warora TPP
+Wardha Warora TPP Phase II Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,135,54,0.4,,,,,,,,,,,Wardha Warora TPP
+Yadadri Thermal Power Station Stage I Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Yadadri Thermal Power Station
+Yadadri Thermal Power Station Stage I Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Yadadri Thermal Power Station
+Yadadri Thermal Power Station Stage I Unit 4,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Yadadri Thermal Power Station
+Yamuna Nagar Thermal Power Station or Deenbandhu Chotu Ram Thermal Power Plant Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Yamuna Nagar or Deenbandhu Chotu Ram TPS
+Yamuna Nagar Thermal Power Station or Deenbandhu Chotu Ram Thermal Power Plant Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,300,120,0.4,,,,,,,,,,,Yamuna Nagar or Deenbandhu Chotu Ram TPS
+Yermarus TPP Unit 1,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Yermarus TPP
+Yermarus TPP Unit 2,coal,powerplant_energy_heuristic_flexable,,,coal,0.335,800,320,0.4,,,,,,,,,,,Yermarus TPP
+Agartala Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,135,34.61538462,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,Agartala Gas Turbine Power Station
+Anta Gas Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,419.33,107.5205128,0.43,,,,,,,,,,,Anta Gas Combined Cycle Gas Turbine Power Plant
+Auraiya Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,663.36,170.0923077,0.43,,,,,,,,,,,Auraiya Combined Cycle Gas Turbine Power Plant
+Baramura Gas Thermal Project,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,42,10.76923077,0.43,,,,,,,,,,,Baramura Gas Thermal Project
+Basin Bridge Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,120,30.76923077,0.43,,,,,,,,,,,Basin Bridge Gas Turbine Power Station
+DGEN Mega Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,1200,307.6923077,0.43,,,,,,,,,,,DGEN Mega Combined Cycle Gas Turbine Power Plant
+Dadri Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,829.78,212.7641026,0.43,,,,,,,,,,,Dadri Combined Cycle Gas Turbine Power Plant
+Dholpur Combined Cycle Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,330,84.61538462,0.43,,,,,,,,,,,Dholpur Combined Cycle Power Station
+Dhuvaran Gas Based Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,594.72,152.4923077,0.43,,,,,,,,,,,Dhuvaran Gas Based Combined Cycle Power Plant
+Essar Hazira Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,515,132.0512821,0.43,,,,,,,,,,,Essar Hazira Combined Cycle Gas Turbine Power Plant
+Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,431.59,110.6641026,0.43,,,,,,,,,,,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant
+GMR Rajahmundry Energy Ltd.,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,768,196.9230769,0.43,,,,,,,,,,,GMR Rajahmundry Energy Ltd.
+GMR Vemagiri Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,370,94.87179487,0.43,,,,,,,,,,,GMR Vemagiri Combined Cycle Power Plant
+GVK Jegurupadu Gas Combined Cycle Gas Turbine,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,235.4,60.35897436,0.43,,,,,,,,,,,GVK Jegurupadu Gas Combined Cycle Gas Turbine
+Gama Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,225,57.69230769,0.43,,,,,,,,,,,Gama Combined Cycle Power Plant
+Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,351,90,0.43,,,,,,,,,,,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.
+I.P. Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,270,69.23076923,0.43,,,,,,,,,,,I.P. Gas Turbine Power Station
+Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,657.39,168.5615385,0.43,,,,,,,,,,,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant
+Karaikal Gas Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,32.5,8.333333333,0.43,,,,,,,,,,,Karaikal Gas Power Plant
+Kashipur Combined Cycle Power Plant Phase I,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,225,57.69230769,0.43,,,,,,,,,,,Kashipur Combined Cycle Power Plant Phase I
+Kashipur Combined Cycle Power Plant Phase II,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,214,54.87179487,0.43,,,,,,,,,,,Kashipur Combined Cycle Power Plant Phase II
+Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,291,74.61538462,0.43,,,,,,,,,,,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant
+Kawas Gas Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,656.2,168.2564103,0.43,,,,,,,,,,,Kawas Gas Combined Cycle Gas Turbine Power Plant
+Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,359.58,92.2,0.43,,,,,,,,,,,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant
+Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,107.88,27.66153846,0.43,,,,,,,,,,,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station
+Kuttalam Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,100,25.64102564,0.43,,,,,,,,,,,Kuttalam Gas Turbine Power Station
+Lakwa GT Replacement Power Project (LRPP ),combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,69.755,17.88589744,0.43,,,,,,,,,,,Lakwa GT Replacement Power Project (LRPP )
+Lakwa Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,97.2,24.92307692,0.43,,,,,,,,,,,Lakwa Gas Turbine Power Station
+Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,366,93.84615385,0.43,,,,,,,,,,,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II
+Namrup Thermal Power Station (NTPS),combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,139.4,35.74358974,0.43,,,,,,,,,,,Namrup Thermal Power Station (NTPS)
+Pillaiperumalnallur (PPN) Power Plant Phase I,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,330.5,84.74358974,0.43,,,,,,,,,,,Pillaiperumalnallur (PPN) Power Plant Phase I
+Pipavav Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,702,180,0.43,,,,,,,,,,,Pipavav Combined Cycle Gas Turbine Power Plant
+Pragati-I Combined Cycle Gas Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,330.4,84.71794872,0.43,,,,,,,,,,,Pragati-I Combined Cycle Gas Power Station
+Pragati-III Combined Cycle Gas Power Project,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,1500,384.6153846,0.43,,,,,,,,,,,Pragati-III Combined Cycle Gas Power Project
+Ramgarh Gas Thermal Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,273.5,70.12820513,0.43,,,,,,,,,,,Ramgarh Gas Thermal Power Station
+Ratnagiri Gas and Power Private Ltd.,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,1967.08,504.3794872,0.43,,,,,,,,,,,Ratnagiri Gas and Power Private Ltd.
+Rokhia Gas Thermal Project,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,63,16.15384615,0.43,,,,,,,,,,,Rokhia Gas Thermal Project
+SUGEN Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,1147.5,294.2307692,0.43,,,,,,,,,,,SUGEN Combined Cycle Power Plant
+Tripura (Monarchak) Gas based Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,101,25.8974359,0.43,,,,,,,,,,,Tripura (Monarchak) Gas based Combined Cycle Power Plant
+Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,726.6,186.3076923,0.43,,,,,,,,,,,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant
+Trombay Unit 7 Gas Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,180,46.15384615,0.43,,,,,,,,,,,Trombay Unit 7 Gas Power Plant
+UNOSUGEN Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,382.5,98.07692308,0.43,,,,,,,,,,,UNOSUGEN Combined Cycle Power Plant
+Uran Gas Combined Cycle Gas Turbine,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,672,172.3076923,0.43,,,,,,,,,,,Uran Gas Combined Cycle Gas Turbine
+Utran Gas Based Power Station Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,374,95.8974359,0.43,,,,,,,,,,,Utran Gas Based Power Station Combined Cycle Power Plant
+Valuthur Gas Turbine Power Station,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,186.2,47.74358974,0.43,,,,,,,,,,,Valuthur Gas Turbine Power Station
+Yelahanka Combined Cycle Power Plant,combined cycle gas turbine,powerplant_energy_heuristic_flexable,,,natural gas,0.201,370.05,94.88461538,0.43,,,,,,,,,,,Yelahanka Combined Cycle Power Plant
+Biomass,biomass,powerplant_energy_heuristic_flexable,,,renewable,0,11614,0,1,,,,,,,,,,,renewables_operator
+Solar,solar,powerplant_energy_heuristic_flexable,,,renewable,0,140601.73,0,1,,,,,,,,,,,renewables_operator
+Hydro,hydro,powerplant_energy_heuristic_flexable,,,renewable,0,51163.16,0,1,,,,,,,,,,,renewables_operator
+Wind,wind,powerplant_energy_heuristic_flexable,,,renewable,0,54650.4,0,1,,,,,,,,,,,renewables_operator
